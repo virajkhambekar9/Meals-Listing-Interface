@@ -25,7 +25,7 @@ https://api.freeapi.app/api/v1/public/meals
 
 ## 🌐 Live Demo
 
-Add your deployed link here
+https://meals-listing-interface-five.vercel.app/
 
 ## 📂 GitHub Repository
 
